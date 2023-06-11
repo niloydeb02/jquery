@@ -1,0 +1,102 @@
+.ques{
+	background:#F7DC6F;
+	padding: 20px;
+	cursor: pointer;
+
+}
+.ans{
+	background:#27AE60;
+	padding: 20px;
+	display: none;
+}
+.animate{
+	width: 300px;
+	height: 100px;
+	font-size: 16px;
+	border: 1px solid red;
+	background: #76D7C4;
+	color: #F0F3F4;
+}
+.a_box{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background: #F39C12;
+}
+.ani_box{
+	margin-top: 200px;
+}
+.b_1{
+	
+	width: 200px;
+	height: 30px;
+	border: 1px solid #F39C12;
+	text-align: center;
+	background: #8E44AD;
+}
+.b_2{
+
+	width:200px;
+	height: 30px;
+	border: 1px solid #28B463;
+	text-align: center;
+	background: #F1C40F;
+
+}
+.r_box{
+
+    position: relative;
+	margin: 5px;
+	width: 50px;
+	height: 50px;
+	float: left;
+
+	background: #F39C12 ;
+}
+/*slider*/
+.s_1{
+	margin: 3px;
+	width: 100px;
+	height: 100px ;
+	display: none;
+	float: left;
+	background:#16A085;
+}
+/*valide form*/
+.submit{
+	color: #CB4335 ;
+}
+
+.f_input{
+
+}
+.f_submit{}
+/*select*/
+.s_item{
+	color: red;
+}
+/*remove*/
+.r_p{
+	background: #229954 ;
+}
+.ri_p{
+	border: 2px solid #2ECC71 ;
+	cursor: pointer;
+	background: #F1C40F;
+
+
+}
+.replaced{
+	border: 2px solid #2ECC71 ;
+	background: #BA4A00;
+}
+
+/*width change*/
+.w_div{
+	margin: 5px;
+	width: 200px;
+	height: 200px;
+
+	float: left;
+	background: #2E86C1 ;
+}
